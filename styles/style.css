@@ -1,0 +1,20 @@
+body {
+  margin: 0px;
+  background-color: #ffffff;
+  color: #000000;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+#map {
+  width: 900px;
+  height: 600px;
+  margin: 15px;
+  border: 2px solid black;
+}
+
+.popup-title {
+  font-size: 13px;
+  font-weight: 600;
+  text-transform: uppercase;
+  line-height: 0.8;
+}
